@@ -1,0 +1,5 @@
+output_dir: "./accounts"
+count: 1
+delay_min: 1.2
+delay_max: 3.4
+headless: false
